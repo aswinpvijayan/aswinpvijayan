@@ -12,11 +12,5 @@ You can read more about my work [here](https://aswinpvijayan.github.io/)
   <img src="https://github-readme-stats.vercel.app/api?username=aswinpvijayan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinpvijayan&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-
 ---
 
-⭐️ *From [aswinpvijayan](https://github.com/aswinpvijayan)*
