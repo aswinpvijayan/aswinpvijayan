@@ -8,7 +8,7 @@ You can read more about my work [here](https://aswinpvijayan.github.io/)
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aswinpvijayan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
