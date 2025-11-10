@@ -1,4 +1,4 @@
-# Hi there, I'm Aswin Vijayan 👋
+# Hello there, I'm Aswin Vijayan 👋
 
 Welcome to my GitHub profile! I’m a researcher in Astronomy. My research interest span simulations of galaxy formation and evolution, high-redshift galaxies, dust in galaxies, sub-millimeter (dusty star-forming) galaxies, studied mainly by forward modelling simulated galaxies. This provides an apples-to-apples framework for comparing galaxy simulations and observations.
 
